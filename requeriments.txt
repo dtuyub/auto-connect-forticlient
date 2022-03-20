@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+
+###### Requirements with Version Specifiers ######
+pwinauto >= 0.6.8
+python-dotenv >= 0.19.2
